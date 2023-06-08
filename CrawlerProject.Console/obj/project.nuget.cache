@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rsu4FsrsEvuoVDOWpWFnt+yxsNHK/jbG4Ku4to0TxOADutao3RuRwVHuka8RtSeiPTJzrAC1ZCiePG7vbYsvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arthur\\source\\repos\\CrawlerProject\\CrawlerProject.Console\\CrawlerProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arthur\\.nuget\\packages\\ia.framework.webclient\\2.1.8\\ia.framework.webclient.2.1.8.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
